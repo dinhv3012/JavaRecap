@@ -1,0 +1,10 @@
+bil : car
+hus : house
+springa : run
+blå : blue
+baka : bake
+hoppa : jump
+simma : swim
+måne : moon
+väg : road
+snäll : kind
